@@ -22,7 +22,7 @@
 </head>
 <body>
 	<h1>${prodname} ${specimg} ${price}</h1>
-
+	
 	<section class="single_product_details_area d-flex align-items-center">
 
 		<!-- Single Product Thumb -->

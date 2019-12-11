@@ -57,7 +57,7 @@ public class LaptopController {
 	@RequestMapping("/login.mc")
 	public ModelAndView login() {
 		ModelAndView mv = new ModelAndView();
-		mv.addObject("center", "login");
+		mv.addObject("center", "loginregister");
 		mv.setViewName("main");
 		return mv;
 	}
