@@ -42,7 +42,7 @@
 			<p class="product-price">
 				<span class="old-price">${price}</span> ${price}
 			</p>
-			<p class="product-desc"> 최신 하드웨어 , 윈도우즈 10 탑재</p>
+			<p class="product-desc"> 최신 하드웨어 , 최신 소프트웨어 </p>
 
 			<!-- Form -->
 			<form class="cart-form clearfix" method="post">

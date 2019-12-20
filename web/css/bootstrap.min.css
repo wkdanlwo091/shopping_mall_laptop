@@ -5867,6 +5867,7 @@ button.close {
 }
 
 .modal-body {
+	/*내가 추가 한 곳 */
 	position: relative;
 	-ms-flex: 1 1 auto;
 	flex: 1 1 auto;

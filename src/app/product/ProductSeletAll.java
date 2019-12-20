@@ -12,7 +12,7 @@ public class ProductSeletAll {
 
 	public static void main(String[] args) {
 
-		AbstractApplicationContext factory = new GenericXmlApplicationContext("spring.xml");
+		AbstractApplicationContext factory = new GenericXmlApplicationContext("myspring.xml");
 
 		Service service = (Service) factory.getBean("productservice");
 

@@ -11,13 +11,16 @@ public class ProductVO {
 	String specsize;
 	String specimg;
 	int stock;
-
+	String proddate;
+	
+	
+	
 	public ProductVO() {
 		super();
 	}
 
 	public ProductVO(String prodname, String brand, int price, String speccpu, String specram, String specstorage,
-			String specsize, String specimg, int stock) {
+			String specsize, String specimg, int stock, String proddate) {
 		super();
 		this.prodname = prodname;
 		this.brand = brand;
@@ -28,6 +31,7 @@ public class ProductVO {
 		this.specsize = specsize;
 		this.specimg = specimg;
 		this.stock = stock;
+		this.proddate = proddate;
 	}
 
 	public String getProdname() {
@@ -102,11 +106,25 @@ public class ProductVO {
 		this.stock = stock;
 	}
 
+	public String getProddate() {
+		return proddate;
+	}
+
+	public void setProddate(String proddate) {
+		this.proddate = proddate;
+	}
+
 	@Override
 	public String toString() {
 		return "ProductVO [prodname=" + prodname + ", brand=" + brand + ", price=" + price + ", speccpu=" + speccpu
 				+ ", specram=" + specram + ", specstorage=" + specstorage + ", specsize=" + specsize + ", specimg="
-				+ specimg + ", stock=" + stock + "]";
+				+ specimg + ", stock=" + stock + ", proddate=" + proddate + ", getProdname()=" + getProdname()
+				+ ", getBrand()=" + getBrand() + ", getPrice()=" + getPrice() + ", getSpeccpu()=" + getSpeccpu()
+				+ ", getSpecram()=" + getSpecram() + ", getSpecstorage()=" + getSpecstorage() + ", getSpecsize()="
+				+ getSpecsize() + ", getSpecimg()=" + getSpecimg() + ", getStock()=" + getStock() + ", getProddate()="
+				+ getProddate() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
+				+ super.toString() + "]";
 	}
-
+	
+	
 }
