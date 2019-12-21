@@ -70,51 +70,19 @@ ScreenShot
 
 ---
 
-<div><img width="158" alt="main_page" src="https://user-images.githubusercontent.com/12855243/71302631-e50a4480-23f0-11ea-8ed0-42ebae49463f.PNG"></div>
-
-<div>
-
-![main_page](./img/main_page.png)</div>
-
-<div></div>
 
 
+<img width="158" alt="main_page" src="https://user-images.githubusercontent.com/12855243/71303102-83010d80-23f7-11ea-8d65-4bc419f3f2d5.PNG">
 
+<img width="200" alt="sort_by_range_by_date_price" src="https://user-images.githubusercontent.com/12855243/71303104-8399a400-23f7-11ea-8a53-8f2c6dd8b673.PNG">
 
+<img width="156" alt="filter_page" src="https://user-images.githubusercontent.com/12855243/71303100-83010d80-23f7-11ea-9233-e948d16a2d80.PNG">
 
+<img width="449" alt="cart" src="https://user-images.githubusercontent.com/12855243/71303097-82687700-23f7-11ea-9a89-1cec9628432b.PNG">
 
+<img width="427" alt="check_cart_page" src="https://user-images.githubusercontent.com/12855243/71303098-82687700-23f7-11ea-9b1f-4d57315c2e33.PNG">
+<img width="223" alt="checkout_page" src="https://user-images.githubusercontent.com/12855243/71303099-83010d80-23f7-11ea-8c45-705e637c1e42.PNG">
 
+<img width="899" alt="q a" src="https://user-images.githubusercontent.com/12855243/71303103-83010d80-23f7-11ea-8a88-3172195152e6.PNG">
 
-
-![filter_page](C:\Users\wkdan\newboot\img_for_git\filter_page.PNG)
-
-
-
-
-
-![main_page](C:\Users\wkdan\newboot\img_for_git\admin_page.PNG)
-
-
-
-
-
-
-
-![cart](C:\Users\wkdan\newboot\img_for_git\cart.PNG)
-
-![check_cart_page](C:\Users\wkdan\newboot\img_for_git\check_cart_page.PNG)
-
-![checkout_page](C:\Users\wkdan\newboot\img_for_git\checkout_page.PNG)
-
-
-
-![cart](C:\Users\wkdan\newboot\img_for_git\q&a.PNG)
-
-![sort_by_range_by_date_price](C:\Users\wkdan\newboot\img_for_git\sort_by_range_by_date_price.PNG)
-
-
-
-
-
-
-
+<img width="508" alt="admin_page" src="https://user-images.githubusercontent.com/12855243/71303096-82687700-23f7-11ea-9004-38420b75b2d2.PNG">
