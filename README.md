@@ -63,13 +63,16 @@ Spring, MyBatis, AJAX, HTML, CSS, Javascript, AJAX, Oracle database, bootstrap
    * 
 
 4. 프런트 앤드 구현 
+   
    * jQuery, Bootstrap, high-chart 
 
 ScreenShot
 
 ***
 
-![main_page](C:\Users\wkdan\newboot\img_for_git\main_page.PNG)
+![main_page](./img/main_page.png)
+
+
 
 ![filter_page](C:\Users\wkdan\newboot\img_for_git\filter_page.PNG)
 
