@@ -68,9 +68,21 @@ Spring, MyBatis, AJAX, HTML, CSS, Javascript, AJAX, Oracle database, bootstrap
 
 ScreenShot
 
-***
+---
 
-![main_page](./img/main_page.png)
+<div><img width="158" alt="main_page" src="https://user-images.githubusercontent.com/12855243/71302631-e50a4480-23f0-11ea-8ed0-42ebae49463f.PNG"></div>
+
+<div>
+
+![main_page](./img/main_page.png)</div>
+
+<div></div>
+
+
+
+
+
+
 
 
 
