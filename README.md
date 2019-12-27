@@ -86,3 +86,5 @@ ScreenShot
 <img width="899" alt="q a" src="https://user-images.githubusercontent.com/12855243/71303103-83010d80-23f7-11ea-8a88-3172195152e6.PNG">
 
 <img width="508" alt="admin_page" src="https://user-images.githubusercontent.com/12855243/71303096-82687700-23f7-11ea-9004-38420b75b2d2.PNG">
+
+<img width="584" alt="그림이미지" src="https://user-images.githubusercontent.com/12855243/71508926-cc0c0280-28cc-11ea-83f7-ec9d9d97c53b.PNG">
